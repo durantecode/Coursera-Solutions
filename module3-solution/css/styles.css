@@ -1,0 +1,57 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #DAA520;
+  font-family: 'Concert One', cursive;
+}
+.navbar {
+  background-color: #483D8B;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  color: #DAA520 !important;
+  font-size: 1.8em !important;
+  font-weight: bold !important;
+  text-shadow: 2px 2px 2px #FDF5E6 !important;
+  line-height: 0.5 !important;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #DAA520;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #DAA520;
+  text-align: center;
+  font-size: 1.5em;
+}
+#nav-list a:hover {
+  background: #9370DB;
+}
+
+#page-title {
+  color: #483D8B;
+  font-size: 1.8em;
+}
+
+#section-box {
+  margin: 10px;
+  background-color: #483D8B;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+#section-title {
+  text-align: center;
+  padding-top: 10px;
+  color: #DAA520;
+  font-size: 1.6em;
+}
+
+#p1 {
+  text-align: center;
+  color: #DAA520;
+}
